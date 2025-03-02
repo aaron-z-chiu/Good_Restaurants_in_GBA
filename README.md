@@ -8,7 +8,7 @@
 * **eatton**: ywu7009@gmail.com
 * **YouXiangyu**: zhezhengjiuhan@gmail.com
 
-### 特别提醒
+### 特别提示
 * **该文件可能随时更新，且更新并不会通知用户，请在每次使用前登入本repository查询最新信息**
 * **该文件信息因更新频率等原因，可能有误差，因此造成的任何问题，与作者无关**
 
