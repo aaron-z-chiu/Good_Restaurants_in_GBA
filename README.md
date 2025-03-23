@@ -5,7 +5,7 @@
 
 ### 作者及联系方式
 * **aaron-z-chiu**: aaron.z.chiu@gmail.com
-* **eatton**: ywu7009@gmail.com
+* **Eatton**: ywu7009@gmail.com
 * **YouXiangyu**: zhezhengjiuhan@gmail.com
 
 ### 特别提示
